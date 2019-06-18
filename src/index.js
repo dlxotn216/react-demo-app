@@ -9,7 +9,8 @@ import {Provider} from 'react-redux';
 
 //Redux Providr를 통해 React Component들이 store를 사용할 수 있도록
 ReactDOM.render(
-    <Provider store={createStore(reducers)}>
+    <Provider 
+        store={createStore(reducers, window.devToolsExtension && window.devToolsExtension())}>
         <App />
     </Provider>,
     document.getElementById('root'));
