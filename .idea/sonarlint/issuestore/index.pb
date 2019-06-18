@@ -53,3 +53,6 @@ U
 config/paths.js,5\5\55cb70b82879be8930f183821a40b797fb5240d7
 E
 src/components/App.js,0\5\053473e2f24e57d32f5be5bef4b8a7dd7f571c70
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
