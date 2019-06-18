@@ -2,12 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43f24148-f54e-4ce5-87b8-d25f8dab3323" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/053473e2f24e57d32f5be5bef4b8a7dd7f571c70" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/066a60350a7ab9d9881d369e349cab8971b17140" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/1144bda15167a82db4390797495820ed08484b9c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/1264e338b783ddfc342ed9d52d0a6ac2bcca3c8d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/2347a4c6f677a415c542ea2b708eb1a963875369" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/353030f31ac807524e80367dd0726728089e12af" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/496a238a6afa168dbaf6efd37bb459331589579c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/52f256ef4d3ff60f1c8e3d9c27598ad7d1336922" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/55cb70b82879be8930f183821a40b797fb5240d7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5a045aa6a698d687fb27b0cbd10b2d29634386d5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/7030d0b2f71b999ff89a343de08c414af32fc93a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/753f0e9896ec77b38ad42a4ba21a05cdea181631" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/7551c3af2c5c9c5d3509090c14f14ee49b73591c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/779dc467007c4b92fee3255900853c368cfdc8df" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/87779c7c0198c99779ad9e7bbaf486689d2cc803" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8dd13304bf59e58e0985092480c1584f7f6be029" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/9757ce33b7b0f6d60cf804e809409e7d704586a5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/979ce8ab8036444a175c10ef71f2410f9e5d2bce" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9e8f2ef79b2576de149756d32509409e831da7ad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a574615b6eff872c9442c06d96ad74c21ba2f195" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/adfacdd6ebb79c299d073190b040473baa8d1034" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e770b658251b71f65848b1ecdb2193bbe4ca011f" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea239254a49d5c7e6874139d55599d3877d2056e" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/eab3a8b7f75e6d373a825529ad4c2faf0224e2b9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6ef3cc784e4d116f27759e27ea9f6194423adb7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f900edc44cb929c2267a16100a32851f6d5b477d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fa288d1472d29beccb489a676f68739ad365fc47" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/App.js" afterPath="$PROJECT_DIR$/src/components/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/TodoInput/TodoInput.js" afterPath="$PROJECT_DIR$/src/components/TodoInput/TodoInput.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/TodoItem/TodoItem.js" afterPath="$PROJECT_DIR$/src/components/TodoItem/TodoItem.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/TodoList/TodoList.js" afterPath="$PROJECT_DIR$/src/components/TodoList/TodoList.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,8 +71,8 @@
           <file leaf-file-name="TodoItem.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/components/TodoItem/TodoItem.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="295">
-                  <caret line="24" column="46" lean-forward="false" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+                <state relative-caret-position="435">
+                  <caret line="34" column="83" lean-forward="false" selection-start-line="34" selection-start-column="83" selection-end-line="34" selection-end-column="83" />
                   <folding>
                     <element signature="n#!!doc" expanded="true" />
                     <element signature="e#89#128#0" expanded="true" />
@@ -86,15 +110,25 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/components/App.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="378">
-                  <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+                <state relative-caret-position="406">
+                  <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
                   <folding>
                     <element signature="n#!!doc" expanded="true" />
                     <element signature="e#90#129#0" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="336">
+                  <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -142,6 +176,7 @@
         <option value="$PROJECT_DIR$/src/components/TodoInput/TodoInput.js" />
         <option value="$PROJECT_DIR$/src/components/TodoList/TodoList.js" />
         <option value="$PROJECT_DIR$/src/components/TodoItem/TodoItem.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -799,7 +834,7 @@
       <option name="presentableId" value="Default" />
       <updated>1560752554432</updated>
       <workItem from="1560752556104" duration="6265000" />
-      <workItem from="1560814478313" duration="5650000" />
+      <workItem from="1560814478313" duration="5951000" />
     </task>
     <task id="LOCAL-00001" summary="day03 Todo App&#10;&#10;Todo app initial commit">
       <created>1560756255299</created>
@@ -808,11 +843,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560756255299</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="day04 Todo list app 이벤트 연결 및 최적화&#10;&#10;TodoItem, TodoList, TodoInput 컴포넌트로부터의 이벤트 연동&#10;및 상태는 App에서 모아서관리하도록 처리&#10;&#10;각 상태가 바뀜에 따라 리렌더링이 쓸데없이 발생하는 것을 방지하고자&#10;shouldComponentUpdate 라이프사이클 메서드 구현&#10;&#10;shouldComponentUpdate 메서드를 구현해야 하는 케이스&#10;- 컴포넌트 배열이 렌더링되는 리스트 컴포넌트 일 때&#10;- 리스트 컴포넌트 내부에 있는 아이템 컴포넌트 일 때&#10;- 하위 컴포넌트 개수가 많으며 리렌더링 되지 않아아 아는 상황인데도 리렌더링이 될 때&#10;&#10;-&gt; 리스트 렌더링 시 언제나 shouldComponentUpdate를 구현하는 습관을&#10;들이는 것이 좋다&#10;&#10;-&gt; 버벅거리는 부분에 대해서 profiling을 통해 파악하자&#10;&#10;?react_perf URL로 접속하여 performance tab을 통해 확인 가능하다">
+      <created>1560821082727</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560821082727</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11915000" />
+    <option name="totallyTimeSpent" value="12216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -833,7 +875,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -858,7 +900,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day03 Todo App&#10;&#10;Todo app initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="day03 Todo App&#10;&#10;Todo app initial commit" />
+    <MESSAGE value="day04 Todo list app 이벤트 연결 및 최적화&#10;&#10;TodoItem, TodoList, TodoInput 컴포넌트로부터의 이벤트 연동&#10;및 상태는 App에서 모아서관리하도록 처리&#10;&#10;각 상태가 바뀜에 따라 리렌더링이 쓸데없이 발생하는 것을 방지하고자&#10;shouldComponentUpdate 라이프사이클 메서드 구현&#10;&#10;shouldComponentUpdate 메서드를 구현해야 하는 케이스&#10;- 컴포넌트 배열이 렌더링되는 리스트 컴포넌트 일 때&#10;- 리스트 컴포넌트 내부에 있는 아이템 컴포넌트 일 때&#10;- 하위 컴포넌트 개수가 많으며 리렌더링 되지 않아아 아는 상황인데도 리렌더링이 될 때&#10;&#10;-&gt; 리스트 렌더링 시 언제나 shouldComponentUpdate를 구현하는 습관을&#10;들이는 것이 좋다&#10;&#10;-&gt; 버벅거리는 부분에 대해서 profiling을 통해 파악하자&#10;&#10;?react_perf URL로 접속하여 performance tab을 통해 확인 가능하다" />
+    <option name="LAST_COMMIT_MESSAGE" value="day04 Todo list app 이벤트 연결 및 최적화&#10;&#10;TodoItem, TodoList, TodoInput 컴포넌트로부터의 이벤트 연동&#10;및 상태는 App에서 모아서관리하도록 처리&#10;&#10;각 상태가 바뀜에 따라 리렌더링이 쓸데없이 발생하는 것을 방지하고자&#10;shouldComponentUpdate 라이프사이클 메서드 구현&#10;&#10;shouldComponentUpdate 메서드를 구현해야 하는 케이스&#10;- 컴포넌트 배열이 렌더링되는 리스트 컴포넌트 일 때&#10;- 리스트 컴포넌트 내부에 있는 아이템 컴포넌트 일 때&#10;- 하위 컴포넌트 개수가 많으며 리렌더링 되지 않아아 아는 상황인데도 리렌더링이 될 때&#10;&#10;-&gt; 리스트 렌더링 시 언제나 shouldComponentUpdate를 구현하는 습관을&#10;들이는 것이 좋다&#10;&#10;-&gt; 버벅거리는 부분에 대해서 profiling을 통해 파악하자&#10;&#10;?react_perf URL로 접속하여 performance tab을 통해 확인 가능하다" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1109,8 +1152,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/TodoItem/TodoItem.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="24" column="46" lean-forward="false" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        <state relative-caret-position="435">
+          <caret line="34" column="83" lean-forward="false" selection-start-line="34" selection-start-column="83" selection-end-line="34" selection-end-column="83" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#89#128#0" expanded="true" />
@@ -1120,12 +1163,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        <state relative-caret-position="406">
+          <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#90#129#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
